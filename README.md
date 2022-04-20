@@ -2,6 +2,8 @@
 Fundamentals of Computers and Computing, 
 Lab exercise
 
+Lecturer,
+Mala Rani Barman
 at Dept. of CSE,
 Sheikh Hasina University, Netrokona
 Batch 2020-2021
